@@ -15,6 +15,10 @@ This project introduces MixedLinear, a novel ensemble approach that leverages th
 - Model Description
 MixedLinear combines the computational efficiency of DLinear with TimeMixer's ability to handle complex patterns. The model demonstrates superior performance in electricity demand forecasting while maintaining resource efficiency.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/afb0a4e5-fba2-4004-b80c-f8a3c05da541">
+</div>
+
 ## Key Results  
 
 MSE: 0.1642  
